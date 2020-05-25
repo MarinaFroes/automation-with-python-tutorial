@@ -5,7 +5,7 @@ I created this project by following the [Python Tutorial - Python for Beginners 
 
 ## Overview
 
-
+This small project creates a workbook from an excel spreadsheet and calculates a new price based on the existing prices on the table. Then it generates a chart based on the new calculated prices.
 
 ## References
 
